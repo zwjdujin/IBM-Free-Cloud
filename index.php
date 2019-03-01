@@ -1155,7 +1155,7 @@ function displayData(dataJSON)
 	
 	<table>
 		<tr>
-			<th class="w_logo">红杏出墙</th>
+			<th class="w_logo">缙哥哥的博客</th>
 		</tr>
 	</table>
 
